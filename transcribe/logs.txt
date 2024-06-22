@@ -1,0 +1,8 @@
+2024/06/21 23:10:04 Fetching transcript for video ID: BY81yNttfpg
+2024/06/21 23:10:04 Fetching YouTube page for video ID: BY81yNttfpg
+2024/06/21 23:10:04 Reading response body for video ID: BY81yNttfpg
+2024/06/21 23:10:05 Fetching transcript from API URL: https://www.youtube.com/api/timedtext?v=BY81yNttfpg&ei=vGp2Zp_UMcTcsfIP5tGygAE&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1719061804&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=E6AAD9DE75BE4DC3DE2A2348BED3201A8BFB39F6.AB5EF7A77C594A49EFEAF3E23D8DB67C2BC25F14&key=yt8&kind=asr&lang=en
+2024/06/21 23:10:05 Reading transcript body for video ID: BY81yNttfpg
+2024/06/21 23:10:05 Transcript fetched successfully for video ID: BY81yNttfpg
+2024/06/21 23:10:05 Parsing transcript data
+2024/06/21 23:10:05 Unmarshalling XML data
